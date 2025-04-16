@@ -12,7 +12,7 @@ custom_css = """
 }
 [data-testid="stAppViewContainer"] {
     background: linear-gradient(-45deg, midnightblue, steelblue, deepskyblue, dodgerblue, royalblue);
-    background-size: 400% 400%;
+    background-size: 400% 400%;     
     animation: gradientAnimation 10s ease infinite;
     color: black;
     font-family: Arial, sans-serif;
